@@ -1,3 +1,5 @@
+# methods of dictionary
+
 student={
     "name":"leela",
     "city":"delhi",
